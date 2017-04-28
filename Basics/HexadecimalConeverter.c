@@ -6,6 +6,8 @@ Input Description: A single line containing an integer
 
 Expected Output: a single line containing the Hexadecimal equivalent of the input integer
 
+exInput: 1562
+Output: 0x0000061a
 
 */
 
