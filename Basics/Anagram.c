@@ -17,6 +17,9 @@ Output: 1
 Input: computer retmpucu
 Output: 0
 
+adding git NEW TRACK
+new 
+
 */
 
 #include<stdio.h>
